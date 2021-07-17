@@ -1,0 +1,23 @@
+1. To launch the EC2 instance  
+
+2. Open the Amazon EC2 console at https://console.aws.amazon.com/ec2/. 
+
+3. Choose Launch Instance. 
+
+4. In Step 1: Choose an Amazon Machine Image (AMI) from the list and choose Select. 
+
+5. In Step 2: Choose an Instance Type, choose Next: Configure Instance Details. 
+
+6. In Step 3: Configure Instance Details, Choose Next: Add Storage. 
+
+7. Choose Next: Add Tags. 
+
+8. Name your instance and choose Next: Configure Security Group. 
+
+9. In Step 6: Configure Security Group 
+
+10. Choose Review and Launch. 
+
+11. Choose Launch. 
+
+12. Select the check box for the key pair that you created, and then choose Launch Instances. 
